@@ -1,0 +1,8 @@
+{
+  "name": "Song.UnityNetworks",
+  "rootNamespace": "Network",
+  "references": ["UniTask", "colyseus.nativewebsocket"],
+  "overrideReferences": true,
+  "precompiledReferences": ["Newtonsoft.Json.dll"],
+  "autoReferenced": true
+}

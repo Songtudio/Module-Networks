@@ -1,0 +1,14 @@
+{
+  "name": "com.song.unity-networks",
+  "version": "1.0.0",
+  "displayName": "Song Unity Networks",
+  "description": "Reusable REST and WebSocket clients with an extensible WebSocketManger.",
+  "unity": "6000.3",
+  "dependencies": {
+    "com.cysharp.unitask": "2.5.10",
+    "com.endel.nativewebsocket": "2.0.4",
+    "com.unity.nuget.newtonsoft-json": "3.2.2",
+    "com.unity.modules.unitywebrequest": "1.0.0"
+  },
+  "author": { "name": "Song" }
+}

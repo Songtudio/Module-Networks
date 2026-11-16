@@ -1,0 +1,8 @@
+{
+  "name": "Song.UnityNetworks.Tests",
+  "references": ["Song.UnityNetworks", "UniTask", "colyseus.nativewebsocket"],
+  "overrideReferences": true,
+  "precompiledReferences": ["Newtonsoft.Json.dll", "nunit.framework.dll"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}
